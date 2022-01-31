@@ -11,3 +11,4 @@ Así terminó el sábado.
 
 El domingo use lo que había aprendido para empezar un nuevo código, que es el repositorio actual.
 
+Quiero usar este primer repositorio como un apoyo para escribir un código con buenas prácticas, y fortalecer los simientos de un 
