@@ -5,4 +5,4 @@ This is my frist uploaded project. Using the code I wrote during the GGJ22.
 
  La llegada del GGJ fue la excusa apropiada para empezar.
 
- Quise empezar a aprender desde lo más básico, empezando por la creación de la ventana y la configuración de sus propiedades.
+Conseguí un tutorial en YouTube de hora y media. Aquí aprendí desde lo más básico, empezando por la creación de la ventana y la configuración de sus propiedades, hasta la manipulación de sprites en el escenario, actualización del puntaje de cada nave, y la aparición de texto anunciando el ganador.
