@@ -32,6 +32,11 @@ Usado en este código
 - [x] Separación de acciones/eventos por funciones
 - [ ] Música
 
+Definí un archivo llamado oneMain.py para inicialmente poner todo el código en un archivo.
+
 Bitácora:
 31/01/2022
 Subida de todos los archivos
+
+02/02/2022
+Subí oneMain.py donde estará listo primero antes de separar en archivos.

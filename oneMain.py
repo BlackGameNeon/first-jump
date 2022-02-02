@@ -72,33 +72,6 @@ def main():
                 screen_running = False
                 pygame.quit()
                 
-
-    #mainEvents()
-
-            #if event.type == pygame.MOUSEBUTTONDOWN:
-                    #if event.button:
-                        #mouseClicked = True
-                        #print("Hola")        
-
-        #if PLAY_BUTTON.collidepoint((mouse_x, mouse_y)):
-            #if mouseClicked:
-              #game()
-
-        #mouseClicked = False   
- 
-def mainEvents():
-    while 1:
-        
-        mainClock.tick(SCREEN_FPS)
-        
-        for event in pygame.event.get():
-            if event.type == pygame.QUIT:
-                #gameRunning = False
-                pygame.quit()
-                break
-            if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_ESCAPE:
-                    pygame.quit()
     
 
 def char_handle_movement(keypressed, character):
