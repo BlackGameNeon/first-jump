@@ -23,14 +23,14 @@ Qué hace este código
 Presenta varias ventanas (3), las cuales se pueden mover con una serie de botones. Cada ventana tiene cosas en particular, incluyendo música, objetos y su manipulación en escena (sprite y textos).
 
 Usado en este código
-[x] Inicialización de Pygame
-[x] Uso de sprites
-[x] Uso de pygame.Rect() para el movimiento de sprites
-[x] Botones
-[x] Cambio de escenas
-[x] Uso e importación de archivos
-[x] Separación de acciones/eventos por funciones
-[ ] Música
+- [x] Inicialización de Pygame
+- [x] Uso de sprites
+- [x] Uso de pygame.Rect() para el movimiento de sprites
+- [x] Botones
+- [x] Cambio de escenas
+- [x] Uso e importación de archivos
+- [x] Separación de acciones/eventos por funciones
+- [ ] Música
 
 Bitácora:
 31/01/2022
