@@ -42,21 +42,21 @@ YELLOW_HIT = pygame.USEREVENT + 1
 RED_HIT = pygame.USEREVENT + 2
 
 YELLOW_SPACESHIP_IMAGE = pygame.image.load(
-    os.path.join('Assets', 'spaceship_yellow.png'))
+    os.path.join('Tutorials/Assets', 'spaceship_yellow.png'))
 YELLOW_SPACESHIP_SCALE = pygame.transform.scale(
     YELLOW_SPACESHIP_IMAGE, (SPACESHIP_WIDTH, SPACESHIP_HEIGHT))
 
 YELLOW_SPACESHIP = pygame.transform.rotate(YELLOW_SPACESHIP_SCALE, 90)
 
 RED_SPACESHIP_IMAGE = pygame.image.load(
-    os.path.join('Assets', 'spaceship_red.png'))
+    os.path.join('Tutorials/Assets', 'spaceship_red.png'))
 RED_SPACESHIP_SCALE = pygame.transform.scale(
     RED_SPACESHIP_IMAGE, (SPACESHIP_WIDTH, SPACESHIP_HEIGHT))
 
 RED_SPACESHIP = pygame.transform.rotate(RED_SPACESHIP_SCALE, -90)
 
 SPACE = pygame.transform.scale(pygame.image.load(
-    os.path.join('Assets', 'space.png')), (WIDTH, HEIGHT))
+    os.path.join('Tutorials/Assets', 'space.png')), (WIDTH, HEIGHT))
 
 
 def draw_window(yellow, red, yellow_bullets, red_bullets, yellow_health, red_health):
